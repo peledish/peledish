@@ -1,0 +1,23 @@
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://peledish.github.io/peledish" resolutions="1x" timestamp="1504418087492">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="33725873" ref="index:algebra:geometry"/>
+    <file name="master_c-master.css" crc="43124349" ref="algebra:geometry"/>
+    <file name="index.css" crc="331632288" ref="index"/>
+    <file name="algebra.css" crc="3939972657" ref="algebra"/>
+    <file name="geometry.css" crc="40081287" ref="geometry"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:algebra:geometry"/>
+    <file name="museutils.js" crc="17924269" ref="index:algebra:geometry"/>
+    <file name="whatinput.js" crc="86476730" ref="index:algebra:geometry"/>
+    <file name="museconfig.js" crc="144853533" ref="index:algebra:geometry"/>
+    <file name="jquery.musemenu.js" crc="4286030528" ref="index:algebra:geometry"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index:algebra:geometry"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:algebra:geometry"/>
+    <file name="require.js" crc="3861931657" ref="index:algebra:geometry"/>
+  </folder>
+  <file name="index.html" crc="187242502" seo="true" mt="1504417968019" redirect="true"/>
+  <file name="algebra.html" crc="4036440865" seo="true" mt="1504417979958" redirect="true"/>
+  <file name="geometry.html" crc="61618777" seo="true" mt="1504417979958" redirect="true"/>
+</manifest>
