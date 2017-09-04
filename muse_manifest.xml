@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://peledish.github.io/peledish" resolutions="1x" timestamp="1504498782361">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://peledish.github.io/peledish" resolutions="1x" timestamp="1504499038397">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="33725873" ref="index:algebra:geometry"/>
     <file name="master_c-master.css" crc="43124349" ref="algebra:geometry"/>
     <file name="index.css" crc="331632288" ref="index"/>
-    <file name="algebra.css" crc="47663646" ref="algebra"/>
+    <file name="algebra.css" crc="4047552849" ref="algebra"/>
     <file name="geometry.css" crc="40081287" ref="geometry"/>
   </folder>
   <folder name="scripts">
@@ -18,6 +18,6 @@
     <file name="require.js" crc="3861931657" ref="index:algebra:geometry"/>
   </folder>
   <file name="index.html" crc="187242502" seo="true" mt="1504417968019" redirect="true"/>
-  <file name="algebra.html" crc="403445862" seo="true" mt="1504498272356" redirect="true"/>
+  <file name="algebra.html" crc="4152677455" seo="true" mt="1504498971142" redirect="true"/>
   <file name="geometry.html" crc="61618777" seo="true" mt="1504417979958" redirect="true"/>
 </manifest>
