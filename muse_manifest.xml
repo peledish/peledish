@@ -1,11 +1,18 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://peledish.github.io/peledish" resolutions="1x" timestamp="1504499466341">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://peledish.github.io/peledish" resolutions="1x" timestamp="1504502364127">
+  <folder name="images">
+    <file name="green_grid.jpg" crc="4269252253" ref="index:algebra:geometry">
+      <caption webpage="index" alt=""/>
+      <caption webpage="algebra" alt=""/>
+      <caption webpage="geometry" alt=""/>
+    </file>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="33725873" ref="index:algebra:geometry"/>
+    <file name="master_a-master.css" crc="4210526777" ref="index:algebra:geometry"/>
     <file name="master_c-master.css" crc="43124349" ref="algebra:geometry"/>
-    <file name="index.css" crc="331632288" ref="index"/>
-    <file name="algebra.css" crc="4147111666" ref="algebra"/>
-    <file name="geometry.css" crc="40081287" ref="geometry"/>
+    <file name="index.css" crc="144634760" ref="index"/>
+    <file name="algebra.css" crc="84365662" ref="algebra"/>
+    <file name="geometry.css" crc="72683371" ref="geometry"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:algebra:geometry"/>
@@ -17,7 +24,7 @@
     <file name="html5shiv.js" crc="4241844378" ref="index:algebra:geometry"/>
     <file name="require.js" crc="3861931657" ref="index:algebra:geometry"/>
   </folder>
-  <file name="index.html" crc="187242502" seo="true" mt="1504417968019" redirect="true"/>
-  <file name="algebra.html" crc="77613663" seo="true" mt="1504499446669" redirect="true"/>
-  <file name="geometry.html" crc="61618777" seo="true" mt="1504417979958" redirect="true"/>
+  <file name="index.html" crc="4244055856" seo="true" mt="1504501850253" redirect="true"/>
+  <file name="algebra.html" crc="404498467" seo="true" mt="1504502047256" redirect="true"/>
+  <file name="geometry.html" crc="478073142" seo="true" mt="1504501433182" redirect="true"/>
 </manifest>
